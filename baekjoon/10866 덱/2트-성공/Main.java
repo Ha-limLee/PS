@@ -123,7 +123,3 @@ public class Main{
 		}
 	}
 }
-//결과 : 런타임 오류.
-//반례
-//1
-//front
